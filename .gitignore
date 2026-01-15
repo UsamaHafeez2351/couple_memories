@@ -9,7 +9,7 @@
 
 
 
-# Flutter repo-specific
+# Flutter repo-specific things
 /bin/cache/
 /bin/internal/bootstrap.bat
 /bin/internal/bootstrap.sh
